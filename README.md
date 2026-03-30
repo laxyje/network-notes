@@ -13,4 +13,4 @@ My beginner networking notes based on Cisco Networking Basics and hands-on pract
 - Home networking
 
 ## Notes
-- [Module 1 - Network Basics](Module1.md)
+- [Module 1 - Network Basics](Module1)
