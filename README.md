@@ -1,6 +1,6 @@
 # Network Notes
 
-My beginner networking notes based on Cisco Networking Basics and hands-on practice.
+My beginner networking notes based on Cisco Networking Basics, labs, and hands-on practice.
 
 ## Topics
 - Network types
