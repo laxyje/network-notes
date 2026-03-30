@@ -14,3 +14,4 @@ My beginner networking notes based on Cisco Networking Basics and hands-on pract
 
 ## Notes
 - [Module 1 - Network Basics](Module1.md)
+- [Module 2 - Network Components, Types, and Connections](Module2.md)
