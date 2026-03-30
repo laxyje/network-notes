@@ -11,3 +11,6 @@ My beginner networking notes based on Cisco Networking Basics and hands-on pract
 - ISP connectivity
 - Wireless and mobile networks
 - Home networking
+
+## Notes
+- [Module 1 - Network Basics](Module1.md)
