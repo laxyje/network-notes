@@ -18,6 +18,9 @@ My beginner networking notes based on Cisco Networking Basics, labs, and hands-o
 - [Module 3 - Wireless and Mobile Networks](Module3.md)
 - [Module 4 - Build a Home Network](Module4.md)
 - [Module 5 - Communication Principles](Module5.md)
+- [Module 6 - Network Media](Module6.md)
+- [Module 7 - The Access Layer](Module7.md)
+
 
 ## Labs
 - [Lab 1 - Home Router Setup](Lab1-Home-Router-Setup.md)
