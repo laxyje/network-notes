@@ -11,6 +11,9 @@ My beginner networking notes based on Cisco Networking Basics, labs, and hands-o
 - ISP connectivity
 - Wireless and mobile networks
 - Home networking
+- Communication protocols and standards
+- Network media
+- Ethernet and the access layer
 
 ## Notes
 - [Module 1 - Network Basics](Module1.md)
